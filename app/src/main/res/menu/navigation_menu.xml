@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context = ".MessagesReceivedActivity">
+
+    <item
+        android:id="@+id/menu_new_message"
+        android:icon="@drawable/ic_new_message"
+        android:title=""
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/menu_log_out"
+        android:title=""
+        android:icon="@drawable/ic_sign_out"
+        app:showAsAction="always" />
+
+
+
+
+
+</menu>
